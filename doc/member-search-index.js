@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.fibonacci","c":"Fibonacci","l":"Fibonacci()","u":"%3Cinit%3E()"},{"p":"org.fibonacci","c":"Fibonacci","l":"sumOfSquaresFormula(int)"},{"p":"org.fibonacci","c":"Fibonacci","l":"sumOfSquaresLoop(int)"}];updateSearchResults();
