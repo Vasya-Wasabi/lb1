@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.fibonacci","l":"Fibonacci"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.fibonacci","l":"Fibonacci"},{"p":"org.fibonacci","l":"Main"}];updateSearchResults();
